@@ -1,0 +1,34 @@
+body{
+    height: 800px;
+    width: 900px;
+    border: black solid 1px; 
+    padding: 10px;
+}
+
+.rating :hover{
+color: chocolate;
+}
+
+td, th {
+
+text-align: center;
+padding: 8px;
+
+}
+.a1{
+    width: 110px
+}
+
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+.checked {
+    color: orange;
+}
+.left{
+    text-align: left;
+}
+.left1{
+    text-align: left;
+    width: 220px;
+}
